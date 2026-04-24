@@ -1,6 +1,6 @@
 👋 Olá, eu sou Pablo Fernandes
 
-🎓 Estudante de Tecnologia da Informação - Univesp (4/6)
+🎓 Estudante de Tecnologia da Informação - Univesp (6/6)
 💻 Focado em Desenvolvimento Web, Banco de Dados e Automação
 🚀 Sempre em aprendizado e construindo projetos práticos
 
@@ -8,7 +8,7 @@
 
 LCSi Sistemas — Help Desk & Application Support (ERP)
 📍 São Paulo, Brasil | 🕒 Desde Fevereiro de 2025
-Atualmente atuando com suporte técnico e funcional em sistemas ERP, atendimento a usuários, análise de chamados, testes e apoio à equipe de desenvolvimento.
+Atualmente atuando como suporte técnico e funcional em sistemas ERP, atendimento a usuários, análise de chamados, testes e apoio à equipe de desenvolvimento.
 
 
 🚀 Tecnologias que estudo e utilizo:
@@ -44,7 +44,7 @@ Fundamentos de Redes e Segurança da Informação
 </a>&nbsp;&nbsp;
 
 <!-- Email (Gmail) -->
-<a href="mailto:pablo.fernandeslopes;97@gmail.com" target="_blank">
+<a href="mailto:pablo.fernandeslopes.97@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
@@ -59,6 +59,6 @@ Fundamentos de Redes e Segurança da Informação
 </a>&nbsp;&nbsp;
 
 <!-- GitHub -->
-<a href="https://github.com/LordRiin" target="_blank">
+<a href="https://github.com/pablofernandesl" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
 </a>
