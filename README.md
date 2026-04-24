@@ -40,25 +40,25 @@ Fundamentos de Redes e Segurança da Informação
 📫 Como me encontrar
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>&nbsp;&nbsp;
 
 <!-- Email (Gmail) -->
 <a href="mailto:pablo.fernandeslopes.97@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>&nbsp;&nbsp;
 
 <!-- WhatsApp -->
 <a href="https://wa.me/5516992991948" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
 </a>&nbsp;&nbsp;
 
 <!-- Instagram -->
 <a href="https://instagram.com/pablofernandesl" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"/>
 </a>&nbsp;&nbsp;
 
 <!-- GitHub -->
 <a href="https://github.com/pablofernandesl" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
 </a>
