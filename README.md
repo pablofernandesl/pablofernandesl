@@ -36,7 +36,7 @@ Boas práticas em Banco de Dados
 Fundamentos de Redes e Segurança da Informação
 
 📊 Estatísticas do GitHub
-<p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LordRiin&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordRiin&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=LordRiin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+<p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pablofernandesl&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofernandesl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=LordRiin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 📫 Como me encontrar
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank">
