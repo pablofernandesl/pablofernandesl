@@ -15,14 +15,14 @@ Atualmente atuando como suporte técnico e funcional em sistemas ERP, atendiment
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/></p>
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></p>
   
 </p>
 
@@ -36,7 +36,7 @@ Boas práticas em Banco de Dados
 Fundamentos de Redes e Segurança da Informação
 
 📊 Estatísticas do GitHub
-<p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pablofernandesl&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofernandesl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=LordRiin&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+<p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pablofernandesl&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofernandesl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=pablofernandesl&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 📫 Como me encontrar
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank">
