@@ -38,6 +38,7 @@ Fundamentos de Redes e Segurança da Informação
 📊 Estatísticas do GitHub
 <p align="center"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pablofernandesl&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofernandesl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=pablofernandesl&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 📫 Como me encontrar
+<p>
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/pablo-fernandeslopes" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
@@ -62,3 +63,4 @@ Fundamentos de Redes e Segurança da Informação
 <a href="https://github.com/pablofernandesl" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
 </a>
+</p>
