@@ -4,6 +4,7 @@
 💻 Desenvolvedor em formação com foco em Backend e aplicações Web completas
 🚀 Construindo projetos práticos com integração entre interface, APIs e banco de dados
 
+
 💼 Experiência Profissional
 
 LCSi Sistemas — Help Desk & Application Support (ERP)
@@ -19,6 +20,7 @@ Contato com regras de negócio e fluxos empresariais
 💡 Experiência que fortalece minha visão prática no desenvolvimento de sistemas reais.
 
 
+
 🚀 Tecnologias que estudo e utilizo:
 
 <p align="center">
@@ -26,6 +28,7 @@ Contato com regras de negócio e fluxos empresariais
   <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
   <!-- Banco de Dados --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> 
 </p>
+
 
 
 🧩 Projetos em Destaque
@@ -40,7 +43,8 @@ Interface moderna e responsiva (Tailwind CSS)
 
 🚧 Em evolução: integração com API e banco de dados
 
-Boas práticas em Banco de Dados
+
+
 
 🌱 Atualmente aprendendo
 Desenvolvimento Backend com Flask e PHP
