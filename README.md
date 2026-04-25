@@ -1,37 +1,52 @@
 👋 Olá, eu sou Pablo Fernandes
 
 🎓 Estudante de Tecnologia da Informação - Univesp (6/6)
-💻 Focado em Desenvolvimento Web, Banco de Dados e Automação
-🚀 Sempre em aprendizado e construindo projetos práticos
+💻 Desenvolvedor em formação com foco em Backend e aplicações Web completas
+🚀 Construindo projetos práticos com integração entre interface, APIs e banco de dados
 
 💼 Experiência Profissional
 
 LCSi Sistemas — Help Desk & Application Support (ERP)
 📍 São Paulo, Brasil | 🕒 Desde Fevereiro de 2025
-Atualmente atuando como suporte técnico e funcional em sistemas ERP, atendimento a usuários, análise de chamados, testes e apoio à equipe de desenvolvimento.
+
+Atuação com suporte técnico e funcional em sistemas ERP, incluindo:
+
+Atendimento e resolução de chamados
+Análise de erros e testes de sistema
+Apoio direto à equipe de desenvolvimento
+Contato com regras de negócio e fluxos empresariais
+
+💡 Experiência que fortalece minha visão prática no desenvolvimento de sistemas reais.
 
 
 🚀 Tecnologias que estudo e utilizo:
 
 <p align="center">
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> 
+  <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> 
+  <!-- Banco de Dados --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> 
 </p>
 
 
-🌱 Atualmente aprendendo
+🧩 Projetos em Destaque
 
-Desenvolvimento Web com Flask e PHP
+🔹 ERP Web (EnterpriseFlow)
+Sistema de gerenciamento empresarial com múltiplos módulos:
+
+Dashboard com indicadores
+Controle financeiro
+Gestão de clientes e serviços
+Interface moderna e responsiva (Tailwind CSS)
+
+🚧 Em evolução: integração com API e banco de dados
 
 Boas práticas em Banco de Dados
+
+🌱 Atualmente aprendendo
+Desenvolvimento Backend com Flask e PHP
+Estruturação de APIs REST
+Modelagem e boas práticas em banco de dados
+Fundamentos de redes e segurança
 
 Fundamentos de Redes e Segurança da Informação
 
